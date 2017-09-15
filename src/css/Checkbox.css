@@ -1,0 +1,44 @@
+.checkbox {
+    width: 28px;
+    height: 25px;
+    position: relative;
+    display: inline-block;
+}
+
+.checkbox label {
+    cursor: pointer;
+    position: absolute;
+    width: 28px;
+    height: 25px;
+    top: 0;
+    left: 0;
+    background: #eff2f6;
+    border:1px solid #eaeff3;
+    border-radius: 4px
+}
+
+.checkbox label:after {
+    opacity: 0;
+    content: '';
+    position: absolute;
+    width: 9px;
+    height: 5px;
+    background: transparent;
+    top: 6px;
+    left: 7px;
+    border: 3px solid #333;
+    border-top: none;
+    border-right: none;
+    transform: rotate(-45deg);
+}
+
+/**
+ * Create the checkbox state for the tick
+ */
+.checkbox input[type=checkbox]:checked + label:after {
+    opacity: 0.5;
+    width: 13px;
+    left: 5px;
+    top: 6px;
+    position: absolute;
+}

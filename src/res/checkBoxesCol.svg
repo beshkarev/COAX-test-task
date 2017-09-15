@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10mm"
+   height="10mm"
+   viewBox="0 0 9.9999998 9.9999999"
+   version="1.1"
+   id="svg1443"
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="checkBoxesCol.svg">
+  <defs
+     id="defs1437" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="36.044461"
+     inkscape:cy="16.902319"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1440">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-287)">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#8895a9;stroke-width:0.37400001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5.8106928,289.73244 H 2.9243379 v 4.0764 l 4.1928089,0.0296 0.00605,-2.65853"
+       id="path1405"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="fill:#8895a9;fill-opacity:1;stroke:#8895a9;stroke-width:0.38341025;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1409"
+       width="0.55151713"
+       height="1.8616643"
+       x="225.65517"
+       y="163.88521"
+       transform="matrix(0.57937566,0.81506064,-0.76038266,0.64947533,0,0)" />
+    <ellipse
+       style="fill:#8895a9;fill-opacity:1;stroke:#8895a9;stroke-width:0.32603964;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1413"
+       cx="6.8754315"
+       cy="290.19162"
+       rx="0.19542773"
+       ry="0.23889537" />
+    <ellipse
+       style="fill:#8895a9;fill-opacity:1;stroke:#8895a9;stroke-width:0.50020581;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1417"
+       cx="4.3977857"
+       cy="292.1911"
+       ry="0.15181226"
+       rx="0.12283381" />
+  </g>
+</svg>
